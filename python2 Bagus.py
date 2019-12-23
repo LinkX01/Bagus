@@ -7,6 +7,6 @@ $pkg install cowsay
 $pkg install toilet
 $pkg install ruby
 $pkg install git
-$git clone https://github.com/MrNOOB07/Bagus
+$git clone https://github.com/MrÆ01/Bagus
 cd Bagus
 python2 Bagus.py
